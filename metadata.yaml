@@ -1,0 +1,30 @@
+_repo: Gala-Days_2385
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hamilton, Gail
+    alias: Dodge, Mary Abigail
+    birthdate: 1833
+    deathdate: 1896
+    gutenberg_agent_id: '886'
+    url: http://www.gutenberg.org/2009/agents/886
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Abigail_Dodge
+description: ''
+gutenberg_issued: '2000-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2385'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Travel'
+- !lcsh 'American essays -- 19th century'
+- GITenberg
+tableOfContents: Gala-days -- A call to my countrywomen -- A spasm of sense -- Camilla's
+  concert -- Cheri -- Side-glances at Harvard class-day -- Success in life -- Happiest
+  days.
+title: Gala-Days
+url: http://www.gutenberg.org/ebooks/2385
