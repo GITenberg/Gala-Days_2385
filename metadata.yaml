@@ -1,5 +1,8 @@
 _repo: Gala-Days_2385
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hamilton, Gail
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/886
     wikipedia: http://en.wikipedia.org/wiki/Mary_Abigail_Dodge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2385#Gala-Days
 gutenberg_issued: '2000-11-01'
 gutenberg_type: Text
 identifiers:
